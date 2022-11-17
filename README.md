@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">Hey there, I'm <b>Daniel</b></h1>
 <p align="center">
-  <img src="https://daniel.stoiber.network/images/linkedin.png" href="https://s.stoiber.network/linkedin" width="40">
-  <img src="https://daniel.stoiber.network/images/github.png" href="https://s.stoiber.network/github" width="40">
-  <img src="https://daniel.stoiber.network/images/twitter.png" href="https://s.stoiber.network/twitter" width="40">
-  <img src="https://daniel.stoiber.network/images/email.png" href="https://s.stoiber.network/email" width="40">
+  <a href="https://s.stoiber.network/linkedin"><img src="https://daniel.stoiber.network/images/linkedin.png" width="40"></a>
+  <a href="https://s.stoiber.network/github"><img src="https://daniel.stoiber.network/images/github.png" width="40"></a>
+  <a href="https://s.stoiber.network/twitter"><img src="https://daniel.stoiber.network/images/twitter.png" width="40"></a>
+  <a href="https://s.stoiber.network/email"><img src="https://daniel.stoiber.network/images/email.png" width="40"></a>
 </p>
 <div align="center">
 
