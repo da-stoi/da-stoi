@@ -1,12 +1,15 @@
 <p align="center">
-<img align="center" src="https://daniel.stoiber.network/images/roundAvatar.png" width="150">
+<img align="center" src="https://images.weserv.nl/?url=danielstoiber.com/resources/images/avatar.png?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d" width="150">
 </p>
 <h1 align="center">Hey there, I'm <b>Daniel</b></h1>
 <p align="center">
-  <a href="https://s.stoiber.network/linkedin"><img src="https://daniel.stoiber.network/images/linkedin.png" width="40"></a>
-  <a href="https://s.stoiber.network/github"><img src="https://daniel.stoiber.network/images/github.png" width="40"></a>
-  <a href="https://s.stoiber.network/twitter"><img src="https://daniel.stoiber.network/images/twitter.png" width="40"></a>
-  <a href="https://s.stoiber.network/email"><img src="https://daniel.stoiber.network/images/email.png" width="40"></a>
+  <a href="https://danielstoiber.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/1920px-Globe_icon-white.svg.png" width="40" height="40"></a>
+  <img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/IPA_Unicode_0x01C0.svg/1920px-IPA_Unicode_0x01C0.svg.png?v=4&h=150&w=150&filt=negate" width="40" height="40">
+  <a href="https://s.stoiber.network/linkedin"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40"></a>
+  <img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/IPA_Unicode_0x01C0.svg/1920px-IPA_Unicode_0x01C0.svg.png?v=4&h=150&w=150&filt=negate" width="40" height="40">
+  <a href="https://s.stoiber.network/github"><img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?v=4&h=150&w=150&filt=negate" width="40" height="40"></a>
+    <img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/IPA_Unicode_0x01C0.svg/1920px-IPA_Unicode_0x01C0.svg.png?v=4&h=150&w=150&filt=negate" width="40" height="40">
+  <a href="https://s.stoiber.network/email"><img src="https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Font_Awesome_5_regular_paper-plane.svg/1920px-Font_Awesome_5_regular_paper-plane.svg.png?v=4&h=150&w=150&filt=negate" width="40" height="40"></a>
 </p>
 <div align="center">
 
@@ -89,3 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=da-stoi&show_icons=true&locale=en&layout=compact&line_height=20&theme=transparent" width="375" alt="da-stoi most used languages"/>
 </a>
 </div>
+<br>
+<br>
+<p align="center">Built with ❤️ and purpose.</h1>
+<br>
