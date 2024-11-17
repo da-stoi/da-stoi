@@ -40,8 +40,8 @@
 
 
 ### Most Used Tools
-![](https://danielstoiber.com/api/tool-images.svg?glow=true&gap=20&limit=4)
-![](https://danielstoiber.com/api/tool-images.svg?glow=true&offset=4&limit=3&gap=20)
+![](https://danielstoiber.com/api/tool-images.svg?glow=true&gap=20&limit=3)
+![](https://danielstoiber.com/api/tool-images.svg?glow=true&offset=3&limit=4&gap=20)
 
 </div>
 
